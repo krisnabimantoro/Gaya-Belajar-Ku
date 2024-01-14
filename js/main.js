@@ -21,15 +21,15 @@ var questions = [
     options: {
       A: {
         text: "Cepat",
-        image: "images/2/Picture1.png",
+        image: "../images/2/Picture1.png",
       },
       B: {
         text: "Suara keras",
-        image: "images/2/Picture2.png",
+        image: "../images/2/Picture2.png",
       },
       C: {
         text: "Jari sebagai penunjuk",
-        image: "images/2/Picture3.png",
+        image: "../images/2/Picture3.png",
       },
     },
   },
@@ -38,15 +38,15 @@ var questions = [
     options: {
       A: {
         text: "Membaca",
-        image: "images/3/Picture1.png",
+        image: "../images/3/Picture1.png",
       },
       B: {
         text: "Mendengarkan",
-        image: "images/3/Picture2.png",
+        image: "../images/3/Picture2.png",
       },
       C: {
         text: "Bergerak",
-        image: "images/3/Picture3.png",
+        image: "../images/3/Picture3.png",
       },
     },
   },
@@ -55,15 +55,15 @@ var questions = [
     options: {
       A: {
         text: "Saya lihat",
-        image: "images/4/Picture1.png",
+        image: "../images/4/Picture1.png",
       },
       B: {
         text: "Saya dengar",
-        image: "images/4/Picture2.png",
+        image: "../images/4/Picture2.png",
       },
       C: {
         text: "Saya tulis",
-        image: "images/4/Picture3.png",
+        image: "../images/4/Picture3.png",
       },
     },
   },
@@ -72,15 +72,15 @@ var questions = [
     options: {
       A: {
         text: "Banyak catatan disertai gambar",
-        image: "images/5/Picture1.png",
+        image: "../images/5/Picture1.png",
       },
       B: {
         text: "Sedikit mencatat, lebih suka mendengarkan",
-        image: "images/5/Picture2.png",
+        image: "../images/5/Picture2.png",
       },
       C: {
         text: "Banyak mencatat tidak ada gambar",
-        image: "images/5/Picture3.png",
+        image: "../images/5/Picture3.png",
       },
     },
   },
@@ -90,15 +90,15 @@ var questions = [
     options: {
       A: {
         text: "Ya atau tidak",
-        image: "images/6/Picture1.png",
+        image: "../images/6/Picture1.png",
       },
       B: {
         text: "Panjang lebar (suka bercerita)",
-        image: "images/6/Picture2.png",
+        image: "../images/6/Picture2.png",
       },
       C: {
         text: "Diikuti dengan gerakan anggota tubuh",
-        image: "images/6/Picture3.png",
+        image: "../images/6/Picture3.png",
       },
     },
   },
@@ -107,15 +107,15 @@ var questions = [
     options: {
       A: {
         text: "Tidak mudah terganggu dengan keributan",
-        image: "images/7/Picture1.png",
+        image: "../images/7/Picture1.png",
       },
       B: {
         text: "Mudah terganggu dengan keributan",
-        image: "images/7/Picture2.png",
+        image: "../images/7/Picture2.png",
       },
       C: {
         text: "Tidak dapat duduk diam dalam waktu lama",
-        image: "images/7/Picture3.png",
+        image: "../images/7/Picture3.png",
       },
     },
   },
@@ -124,15 +124,15 @@ var questions = [
     options: {
       A: {
         text: "Membayangkan",
-        image: "images/8/Picture1.png",
+        image: "../images/8/Picture1.png",
       },
       B: {
         text: "Mengucapkan",
-        image: "images/8/Picture2.png",
+        image: "../images/8/Picture2.png",
       },
       C: {
         text: "Sambil berjalan dan melihat",
-        image: "images/8/Picture3.png",
+        image: "../images/8/Picture3.png",
       },
     },
   },
@@ -141,15 +141,15 @@ var questions = [
     options: {
       A: {
         text: "Melihat Wajah Langsung",
-        image: "images/9/Picture1.png",
+        image: "../images/9/Picture1.png",
       },
       B: {
         text: "Lewat telepon",
-        image: "images/9/Picture2.png",
+        image: "../images/9/Picture2.png",
       },
       C: {
         text: "Memperhatikan gerak tubuh",
-        image: "images/9/Picture3.png",
+        image: "../images/9/Picture3.png",
       },
     },
   },
@@ -158,15 +158,15 @@ var questions = [
     options: {
       A: {
         text: "Berbicara cepat",
-        image: "images/10/Picture1.png",
+        image: "../images/10/Picture1.png",
       },
       B: {
         text: "Berintonasi/berirama",
-        image: "images/10/Picture2.png",
+        image: "../images/10/Picture2.png",
       },
       C: {
         text: "Berbicara lambat",
-        image: "imagess/10/Picture3.png",
+        image: "../imagess/10/Picture3.png",
       },
     },
   },
@@ -175,15 +175,15 @@ var questions = [
     options: {
       A: {
         text: "Mengikuti petunjuk gambar",
-        image: "images/11/Picture1.png",
+        image: "../images/11/Picture1.png",
       },
       B: {
         text: "Sambil berbicara",
-        image: "images/11/Picture2.png",
+        image: "../images/11/Picture2.png",
       },
       C: {
         text: "Berbicara sambil menulis",
-        image: "images/11/Picture3.png",
+        image: "../images/11/Picture3.png",
       },
     },
   },
@@ -192,15 +192,15 @@ var questions = [
     options: {
       A: {
         text: "Menonton",
-        image: "images/12/Picture1.png",
+        image: "../images/12/Picture1.png",
       },
       B: {
         text: "Mendengarkan musik",
-        image: "images/12/Picture2.png",
+        image: "../images/12/Picture2.png",
       },
       C: {
         text: "Bermain game",
-        image: "images/12/Picture3.png",
+        image: "../images/12/Picture3.png",
       },
     },
   },
@@ -209,15 +209,15 @@ var questions = [
     options: {
       A: {
         text: "Melihat peraga",
-        image: "images/13/Picture1.png",
+        image: "../images/13/Picture1.png",
       },
       B: {
         text: "Berdiskusi",
-        image: "images/13/Picture2.png",
+        image: "../images/13/Picture2.png",
       },
       C: {
         text: "Praktik",
-        image: "/images/13/Picture3.png",
+        image: "..//images/13/Picture3.png",
       },
     },
   },
@@ -226,15 +226,15 @@ var questions = [
     options: {
       A: {
         text: "Gambar",
-        image: "/images/14/Picture1.png",
+        image: "..//images/14/Picture1.png",
       },
       B: {
         text: "Musik",
-        image: "/images/14/Picture2.png",
+        image: "..//images/14/Picture2.png",
       },
       C: {
         text: "Game",
-        image: "/images/14/Picture3.png",
+        image: "..//images/14/Picture3.png",
       },
     },
   },
